@@ -19,6 +19,7 @@ div {
 
 #faultyItems {
   visibility: hidden;
+  color: gold;
 }
 
 #launchForm {
